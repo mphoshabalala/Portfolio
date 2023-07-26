@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.530fdcd2.css",
+    "main.js": "/static/js/main.20828f15.js",
+    "static/media/pexels-pixabay-270632.jpg": "/static/media/pexels-pixabay-270632.f5f4b84159f2f1bacfca.jpg",
+    "static/media/ken-cheung-KonWFWUaAuk-unsplash.jpg": "/static/media/ken-cheung-KonWFWUaAuk-unsplash.907c857681b7e5fa3219.jpg",
+    "static/media/U-connect.png": "/static/media/U-connect.baead05eb559cec9f03f.png",
+    "static/media/fa-solid-900.ttf": "/static/media/fa-solid-900.4a2cd718d7031b732e76.ttf",
+    "static/media/drElecro.png": "/static/media/drElecro.1b7ae20c18dadd87423c.png",
+    "static/media/fa-brands-400.ttf": "/static/media/fa-brands-400.150de8eaa454d669c405.ttf",
+    "static/media/fa-solid-900.woff2": "/static/media/fa-solid-900.bb975c966c37455a1bc3.woff2",
+    "static/media/fa-brands-400.woff2": "/static/media/fa-brands-400.e033a13ee751afc1860c.woff2",
+    "static/media/fa-regular-400.ttf": "/static/media/fa-regular-400.d87474231f4192884802.ttf",
+    "static/media/fa-regular-400.woff2": "/static/media/fa-regular-400.3223dc79c1adee56370b.woff2",
+    "static/media/telephone_724664.png": "/static/media/telephone_724664.fb244201058d6b0c101c.png",
+    "static/media/ME.png": "/static/media/ME.d99d884ea9280e6d2934.png",
+    "static/media/github_5968810.png": "/static/media/github_5968810.8fffbb3aff2808cb0077.png",
+    "static/media/linkedin_3536505.png": "/static/media/linkedin_3536505.f249b38224ca41a0b909.png",
+    "static/media/fa-v4compatibility.ttf": "/static/media/fa-v4compatibility.0e3a648be390bd8cb094.ttf",
+    "static/media/fa-v4compatibility.woff2": "/static/media/fa-v4compatibility.68577e40f3e70067b5da.woff2",
+    "index.html": "/index.html",
+    "main.530fdcd2.css.map": "/static/css/main.530fdcd2.css.map",
+    "main.20828f15.js.map": "/static/js/main.20828f15.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.530fdcd2.css",
+    "static/js/main.20828f15.js"
+  ]
+}
