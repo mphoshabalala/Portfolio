@@ -22,6 +22,8 @@ h1{
   font-size: 50px;
 }
 
+
+
 .current{
   color: rgb(241, 84, 57);
   text-decoration: underline;
@@ -32,6 +34,7 @@ h1{
   width: 100%;
   height: 100vh;
 }
+
 
 
 .hero-contaier h1{
@@ -171,10 +174,10 @@ i:hover{
   padding-right: 2rem;
 }
 
-#project-1 h2, #project-1 p, #project-1 a{
+/* #project-1 h2, #project-1 p, #project-1 a{
   line-height: 1.5rem;
   color: rgb(61, 61, 61);
-}
+} */
 
 #project-1 a, #project-1 a i{
   color: #b0004c;
@@ -192,7 +195,7 @@ i:hover{
   margin-top: 4rem;
 }
 
-#project-2 h2, #project-2 p, #project-2 a{
+.project-content h2, .project-content p, .project-content a{
   line-height: 1.5rem;
   color: rgb(61, 61, 61);
 }
@@ -377,14 +380,17 @@ p{
 
   @media (max-width: 768px){
     .project-content{
-      background-color: rgba(0, 0, 0, .4);
+      background-color: rgba(0, 0, 0, .6);
       padding: 1rem;
       border-radius: 5px;
     }
-  
-    .project-content > p {
-      color: #ffffff;
-    }
+    
+    
+.project-content h2, .project-content p, .project-content a{
+  line-height: 1.5rem;
+  color: rgb(255, 255, 255);
+}
+ 
   }
 
   @media (max-width: 700px){
@@ -413,6 +419,13 @@ p{
   }
 
   @media (max-width: 650px){
+    .header-content{
+      padding: 2rem;
+    }
+    .header-content > a > h2{
+      font-size: 1rem;
+    }
+
     .footer{
       background-color: rgb(70, 70, 70);
       display: flex;
@@ -462,8 +475,18 @@ p{
       margin-bottom: 2rem;
     }
 
+    .cancel{
+      position: absolute;
+      right: 2rem;
+      top: 2rem;
+      font-size: 1.3rem;
+    }
+
   }
 }
+
+
+
 
 
 

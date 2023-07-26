@@ -1,4 +1,3 @@
-import { useState } from "react";
 import '@fortawesome/fontawesome-free/css/all.min.css';
 
 const Projects = () => {
@@ -10,7 +9,7 @@ const Projects = () => {
             <div className="my-projects">
                 <div  className="project-card " id="project-1" >
                     <div className="project-content">
-                        <h2>DR. Elecro</h2>
+                        <h2 className="dr-elecro"> DR. Elecro</h2>
                         <p>DR. Elecro is a Full stack E-commerce web application that is designed to offer a wide range of electronic items for repairs and have a repairing service for booking</p>
                         <a href="https://github.com/mphoshabalala/EcommerceRepo" target="_blank">Get code on Github <i  class="fa-solid fa-circle-arrow-right" ></i></a>
                     </div>
