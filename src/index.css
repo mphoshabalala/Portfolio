@@ -3,6 +3,7 @@
   font-family: 'Merriweather Sans', sans-serif;
   color:#f6f6fa;
   scroll-behavior: smooth;
+  font-size: 1em;
 }
 
 a{
@@ -383,6 +384,14 @@ p{
       background-color: rgba(0, 0, 0, .6);
       padding: 1rem;
       border-radius: 5px;
+    }
+
+    .skills-container{
+      padding: 1rem;
+    }
+
+    .my-story > p{
+      margin: 0 1rem;
     }
     
     
