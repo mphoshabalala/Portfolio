@@ -1,6 +1,6 @@
 # My Portfolio
 
-This project is my portfolio that was created using ReactJS
+This project is my **previous** portfolio that was created using ReactJS
 
 ## Features
 
